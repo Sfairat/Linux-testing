@@ -1,0 +1,7 @@
+host: 0.0.0.0
+user: 'user2'
+pswd: '1234qwer'
+file: p7zip-full
+folder_out: /home/user2/folder_out/
+folder_in: /home/user2/folder_in/
+folder_downloads: /home/alex/folder_download/
